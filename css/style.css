@@ -77,4 +77,24 @@ a:hover {
 }
 }
 
+.col-lg-6 {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+@media (max-width: 767.98px) {
+    .col-lg-6 {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
+
+.col-lg-6 h1, .col-lg-6 p {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.col-lg-6 {
+    text-align: center;
+}
 
